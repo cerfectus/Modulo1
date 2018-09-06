@@ -1,6 +1,20 @@
 canvas{
-    background:#FFFC99;
+    background:#9B00DF;
 }
-myGamePiece{
-    background-color: aqua;
+section{
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    background-image: url(sky.jpeg);
+    color: white;
+}
+h1{
+color:#9B00DF;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    
 }
